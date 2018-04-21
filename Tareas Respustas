@@ -1,1 +1,10 @@
-ok
+Explicar por qué los siguientes algoritmos tienen la complejidad correspondiente?
+Búsqueda binaria: logarítmica
+Serie Fibonacci: exponencial
+
+Algoritmo exponencial .La complejidad viene por parte al iniciar el método pide un parámetro de entrada que líneas abajo ingresa a dos bucles uno después del otro y recorre según el Numero de parámetro de entrada y a la par consume la memria del equipo.
+
+Algoritmo Logarítmica .La complejidad es menor que un exponencial por el que ejemplo: Log en base 2 de 10000 = 100, se verifica que se reduce el tiempo de espera según la base del Logaritmo que se va ejecutar y el tiempo de demorar se acorta y el consumo de memoria,
+
+Algoritmo Línea: El tiempo de ejecución es corta ya que no tiene complejidades en el código.
+
